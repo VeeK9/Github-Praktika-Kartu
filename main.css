@@ -122,7 +122,6 @@
 
     > img {
         grid-row: 1 / -1;
-        /* grid-row-start: span 8; */
         height: 100%;
     }
 
