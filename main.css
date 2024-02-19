@@ -1,0 +1,47 @@
+/* SUNU KORTELIU SEKCIJA */
+
+#dogs {
+  > h1 {
+    text-align: center;
+  }
+
+  > #dogCardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+  }
+
+  > button {
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.dogCard {
+  background-color: lightgray;
+  width: 200px;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+
+  > img {
+    width: 100%;
+    margin: 0;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    padding-bottom: 0;
+    display: block;
+  }
+
+  > h3 {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    color: white;
+    filter: drop-shadow(1px 1px 3px black);
+  }
+}
