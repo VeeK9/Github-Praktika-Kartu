@@ -1,3 +1,27 @@
+
+#about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, 
+                rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    
+    p{
+        line-height: 1.2rem;
+    }
+
+    div{
+        text-align: center;
+        width: 50%;
+    }
+
+    img{
+        width: 90%;
+    }
+}
+
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 #footer{
     margin:20px;
@@ -18,3 +42,4 @@
         flex-direction: column;
     }
 }
+
