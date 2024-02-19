@@ -22,7 +22,7 @@
 
 .dogCard {
   background-color: lightgray;
-  width: 200px;
+  width: 350px;
   position: relative;
   border-radius: 10px;
   overflow: hidden;
@@ -46,6 +46,8 @@
     filter: drop-shadow(1px 1px 3px black);
   }
 }
+
+/* FOOTERIS */
 
 #footer{
   margin:20px;
