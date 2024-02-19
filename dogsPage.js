@@ -11,5 +11,5 @@ fetch('data.json')
   })
 
 document.querySelector('button').addEventListener('click', e => {
-  window.location = "./index.html"
+  window.location = "./index.html#dogs"
 })

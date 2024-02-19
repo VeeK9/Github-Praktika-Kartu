@@ -31,47 +31,99 @@
 #dogs {
   > h1 {
     text-align: center;
+    padding-block: 20px;
   }
 
   > #dogCardContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10px;
-    padding: 20px;
+    gap: 20px;
+    padding: 20px 20px 40px;
   }
 
   > button {
     display: block;
     margin: 0 auto;
+    background-color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.16),
+                0px 0px 0px 1px rgba(0, 0, 0, 0.06);
+    border: none;
+    transition: 0.2s;
+
+    &:hover{
+        box-shadow: 1px 1px 20px 0px rgba(0, 0, 0, 0.16),
+                    0px 0px 0px 1px rgba(0, 0, 0, 0.06);
+    }
+
+    &:active{
+        box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.06);
+    }
   }
 }
 
 .dogCard {
-  background-color: lightgray;
   width: 350px;
   position: relative;
-  border-radius: 10px;
+  padding: 10px;
   overflow: hidden;
   cursor: pointer;
+  box-sizing: border-box;
+  transition: 0.2s;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 10px 0px, 
+              rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+
+    &:hover {
+        transform: scale(101%);
+
+    }
 
   > img {
     width: 100%;
-    margin: 0;
-    aspect-ratio: 1 / 1;
+    box-sizing: border-box;
+    aspect-ratio: 4 / 5;
     object-fit: cover;
-    padding-bottom: 0;
     display: block;
+    overflow: hidden;
   }
 
   > h3 {
     position: absolute;
-    bottom: 0;
+    bottom: 10px;
+    padding: 15px;
+    margin: 0;
     text-align: center;
+    box-sizing: border-box;
     width: 100%;
-    color: white;
-    filter: drop-shadow(1px 1px 3px black);
+    background-color: rgba(255, 255, 255, 0.6);
   }
+}
+
+.infoDialog {
+    width: 80%;
+    box-shadow: 1px 1px 36px rgba(0, 0, 0, 0.5);
+    display: grid;
+    grid-template: 50px repeat(5, 50px) auto auto / auto 1fr;
+
+    > h3 {
+        grid-column-start: span 2;
+    }
+
+    > img {
+        grid-row-start: span 5;
+        height: 100%;
+    }
+
+    > p:nth-child(8), p:nth-child(9) {
+        grid-column-start: span 2;
+    }
+}
+
+.infoDialog:focus {
+    outline: none;
+    border: none;
 }
 
 /* FOOTERIS */

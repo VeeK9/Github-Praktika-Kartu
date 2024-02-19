@@ -1,0 +1,115 @@
+{
+    "sunys": [
+        {
+            "id": "0",
+            "veisle": "Labradoro retriveris",
+            "kilme": "Jungtinė Karalystė, Kanada",
+            "dydis": "Vidutiniai šunys",
+            "charakteris": "švelnus, protingas, geros nuotaikos, mielas, mokantis bendrauti, judrus",
+            "ilgaamziskumas": "10-13 metų",
+            "suniukoKaina": "410 - 810 €",
+            "aprasymas": "Plačiai paplitusi nuomonė, kad labradoro retriveris yra kilęs iš Niūfaundlendo salos, kur žvejai augindavo panašius į retriverius šunis, padėdavusius žvejyboje. Labradoro retriveriai mėgsta vandenį, o jų kailis yra atsparus atšiauriam orui. Jų uodega lyginama su ūdros, nes yra panašios formos ir pabrėžia visą šuns kūną. Palyginti tai nesena veislė. Pirmasis labradoro retriverių klubas įkurtas 1916 m., geltonųjų labradorų - 1925 m. Dabar labradoro retriveriai yra populiarūs visame pasaulyje. Auginami kaip šeimos šunys, gali būti išdresuoti padėti neįgaliesiems.",
+            "elgesys": "Šie šunys yra puikaus temperamento šuo. Mėgsta judėti, plaukioti. Lengvai prisitaiko įvairioje aplinkoje, yra atsidavę savo šeimininkui ir labai mylintys. Labai protingi, greitai mokosi. Yra paklusnūs, nori kuo labiau įtikti savo šeimininkui. Taikios prigimties, niekada nerodo agresijos ar pernelyg didelio drovumo.",
+            "nuotrauka": "https://www.sunu-veisles.lt/wp-content/uploads/sunu-veisles/labradoro-retriveris1.jpg"
+        },{ 
+            "id": "1",
+            "veisle": "Vokiečių aviganis",
+            "kilme": "Vokietija",
+            "dydis": "Dideli šunys",
+            "charakteris": "švelnus, protingas, geros nuotaikos, mielas, mokantis bendrauti, judrus",
+            "ilgaamziskumas": "7-10 metų",
+            "suniukoKaina": "650 - 1220 €",
+            "aprasymas": "Viena populiariausių šunų veislių. Vokiečių aviganis yra bandšunis, tapęs itin populiariu sarginiu šunimi. Kilmės šalyje šie šunys kai kur vis dar saugo bandas.",
+            "elgesys": "išlaikantys pusiausvyrą ir pasitikintis savimi šunys, nuoširdūs ir geraširdžiai (išskyrus situacijas, kada šuo yra įsiaudrinęs, susijaudinęs), atidūs ir klusnūs. Jie drąsūs, tvirto charakterio ir iš prigimties apdovanoti koviniu instinktu. Šios visos savybės lemia, kad vokiečių aviganis gali būti kompanionu, sarginiu, apsauginiu, tarnybiniu ar ganymo šunimi.",
+            "nuotrauka": "https://www.sunu-veisles.lt/wp-content/uploads/sunu-veisles/vokieciu-aviganis1.jpg"
+        },{
+            "id": "2",
+            "veisle": "Biglis",
+            "kilme": "Jungtinė Karalystė",
+            "dydis": "Maži šunys",
+            "charakteris": "švelnus, protingas, pastovaus charakterio, ryžtingas, geraširdis, lengvai sujaudinamas",
+            "ilgaamziskumas": "11-15 metų",
+            "suniukoKaina": "410 - 650 €",
+            "aprasymas": "Pirmą kartą apie mažuosius skalikus žinių randama 1481 m. XVI a. šie šunys tapo ypač vertinami Anglijos aristokratijos. Bigliui, kaip medžiokliniam šuniui, būtina daug judėti. Dažniausiai rekomenduojama nepaleisti biglio nuo pavadėlio, nes užuodęs pėdsaką biglis ieško gyvūnų ir neretai pasiklysta. Biglis yra gana stiprus - jaunesni vaikai gali šio šuns neišlaikyti už pavadėlio. Šios veislės šunys labai myli ne tik vaikus, bet ir naminius gyvūnėlius, net kates.",
+            "elgesys": "Biglių veislės šunys labai nepriklausomi ir savarankiški. Jie pasižymi nuoširdumu, draugiškumu, džiaugsmingumu ir meile visiems šeimos nariams. Tai labai nuovokus ir išradingas šuo. Dresuojant šios veislės šunis reikia daug kantrybės. Bigliui būtinas pastovus bendravimas su šeimos nariais, jo negalima ilgam palikti vieno, nes tai gali turėti įtakos biglio psichikai.",
+            "nuotrauka": "https://www.sunu-veisles.lt/wp-content/uploads/sunu-veisles/biglis1.jpg"
+        },{
+            "id": "3",
+            "veisle": "Auksaspalvis retriveris",
+            "kilme": "Jungtinė Karalystė",
+            "dydis": "Dideli šunys",
+            "charakteris": "protingas, mielas, draugiškas, pasitikintis savimi, patikimas, vertas pasitikėjimo",
+            "ilgaamziskumas": "10-13 metų",
+            "suniukoKaina": "810 - 1620 €",
+            "aprasymas": "Manoma, kad auksaspalvių retriverių veislė buvo išvesta XIX a. pabaigoje, sukryžminus šviesius lygiaplaukius retriverius su jau išnykusiais vandens tvidspanieliais. Šiems šunims patinka sportuoti, tai padeda išlaikyti gerą formą, vystyti raumenis, be to, jie labai mėgsta maudytis vandens telkiniuose. Tai protingi šunys, kurie labai dažnai dresuojami akliesiems ir žmonėms su negalia prižiūrėti. Yra linkę nereaguoti į pašalinius garsus, aplinką ar svetimus žmones.",
+            "elgesys": "Auksaspalvis retriveris yra ramus, meilus, švelnus, draugiškas, jautrus, budrus ir romus šuo.  Labai draugiški su vaikais. Lengvai dresuojamas. Kadangi auksaspalviai retriveriai buvo išvesti tarnauti žmonėms, jam būtinas protinis ir fizinis aktyvumas.",
+            "nuotrauka": "https://www.sunu-veisles.lt/wp-content/uploads/sunu-veisles/auksaspalvis-retriveris1.jpg"
+        },{
+            "id": "4",
+            "veisle": "Jorkšyro terjeras",
+            "kilme": "Jungtinė Karalystė",
+            "dydis": "Maži šunys",
+            "charakteris": "protingas, nepriklausomas, drąsus, pasitikintis savimi, įžūlus",
+            "ilgaamziskumas": "13-16 metų",
+            "suniukoKaina": "410 - 570 €",
+            "aprasymas": "Jorkšyro terjeras - dekoratyvinių šunų veislė, išvesta apie 1800 m. Anglijoje. Šuns kailis ilgas, tolygiai krenta abiejose pusėse. Mėgsta ilgus pasivaikščiojimus, bet būna laimingi lakstydami ir mažame sode ar namuose.",
+            "elgesys": "Jorkšyro terjerai yra žavingi ir inteligentiški, nepaisant jų mažo dydžio, jie pasižymi drąsa, ištikimybe ir prieraišumu. Ryžtingai gina savo teritoriją, turi aštrią klausą, ir praneš savo šeimininkui net apie patį tyliausią įsibrovėlį. Gali būti labai triukšmingi.",
+            "nuotrauka": "https://www.sunu-veisles.lt/wp-content/uploads/sunu-veisles/jorksyro-terjeras1.jpg"
+        },{
+            "id": "5",
+            "veisle": "Buldogas",
+            "kilme": "Jungtinė Karalystė",
+            "dydis": "Vidutiniai šunys",
+            "charakteris": "draugiškas, supratingas, savavališkas, draugiškas aplinkiniams",
+            "ilgaamziskumas": "8-12 metų",
+            "suniukoKaina": "970 - 1620 €",
+            "aprasymas": "Buldogai - šunų veislių grupė. Yra kelios buldogų veislės: amerikiečių buldogas, anglų buldogas, prancūzų buldogas, senasis anglų buldogas ir kt. Buldogai Anglijoje pradėti auginti XVIII a. pr. Anglijoje šie šunys buvo naudojami medžioklėje ir žaidynėse. Buldogas puldavo galingą jautį, dantimis įsikabindavo į snukį ir tampydavo jį tol, kol jautis netekdavo jėgų. ",
+            "elgesys": "Buldogas trokšta supratimo ir meilės, už kurią šeimininkams atsako prisirišimu ir draugyste. Tam tikras buldogo nepasitikėjimas žmonėmis ir dominavimas prieš kitus šunis leistinas. Įprastai buldogas nėra nei per bailus, nei per agresyvus žmonių ir kitų šunų atžvilgiu. Kartais pasitaiko ir per agresyvių, ir per mažai temperamentingų šunų. Lengvai dresuojamas. Buldogai mažai loja, pirmenybę teikia tyliam puolimui. Šios veislės išskirtinė savybė - neįtikėtina ištikimybė šeimininkui. Jautrūs ir supratingi mažiems vaikams.",
+            "nuotrauka": "https://www.sunu-veisles.lt/wp-content/uploads/sunu-veisles/buldogas1.jpg"
+        },{
+            "id": "6",
+            "veisle": "Vokiečių bokseris",
+            "kilme": "Vokietija",
+            "dydis": "Vidutiniai šunys",
+            "charakteris": "žaismingas, protingas, draugiškas, atsidavęs, ištikimas, energingas, ramus, bebaimis, pasitikintis savimi, linksmas, narsus, sumanus",
+            "ilgaamziskumas": "9 -12 metų",
+            "suniukoKaina": "490 - 970 €",
+            "aprasymas": "Bokseris buvo gautas sukryžminus dviejų tipų mastifus, su kuriais buvo medžiojama viduramžiais Vokietijoje. Šie šunys medžiodavo laukinius gyvūnus: šernus, meškas ir elnius. Bokserių protėviai taip pat buvo naudojami bulių kautynėms, kai jos tapo sporto šaka. XIX amžiuje šios veislės buvo sukryžmintos su buldogais ir taip atsirado bokseriai. Žmonės juos mėgsta auginti dėl ramaus charakterio, įgimtos meilės vaikams, puikių gynėjo ir saugotojo savybių.",
+            "elgesys": "Vokiečių bokseris gali būti labai universalus tarnybinis šuo. Jis pasižymi drąsa, jėga, ištikimybe, yra pasitikintis savimi. Turi stabilią nervų sistemą, yra puikus saugotojas ir draugas, bet nepasitiki svetimais žmonėmis. Bokseriai yra lengvai dresuojami, protingi ir tvarkingi šunys. Vis dėlto gali prikrėsti šunybių, jeigu būna ilgai palikti vieni. Jie linksmi, energingi, žaismingi ir smalsūs, nors kartais gali būti užsispyrę ir bailūs. Sutaria su vaikais ir kitais augintiniais.",
+            "nuotrauka": "https://www.sunu-veisles.lt/wp-content/uploads/sunu-veisles/bokseris1.jpg"
+        },{
+            "id": "7",
+            "veisle": "Pudelis",
+            "kilme": "Vokietija, Prancūzija",
+            "dydis": "Maži šunys",
+            "charakteris": "aktyvus, protingas, budrus, ištikimas, lengvai dresuojamas, instinktyvus",
+            "ilgaamziskumas": "12 -15 metų",
+            "suniukoKaina": "810 - 1220 €",
+            "aprasymas": "Pudelių kilmė iki šiol nėra aiški. Apie juos prirašyta daug skirtingų pasakojimų. Manoma, kad pudelių protėviai buvo medžiokliniai šunys ir aviganiai. Pudelis yra vidutinio dydžio, proporcingai sudėtas šuo. Pudelių kailis yra tankus, bet labai lengvas. Jie nesišeria ir neturi šunims būdingo kvapo.",
+            "elgesys": "Pudeliui būdinga elegancija, aristokratiškos manieros, didybė. Jis lengvai dresuojamas, laikomas vienu protingiausiu pasaulio šunų. Šio tipo šunys yra įvairiapusiai - puikiai prisiderina ir prie tingaus, ir prie aktyvaus šeimininko gyvenimo būdo. Nuolat straksi, juda, šokinėja. Mėgsta turėti daug veiklos. Pudelio būdo bruožai taip pat priklauso ir nuo jo dydžio. Didieji pudeliai paprastai yra ramesni, mažieji – labiau padūkę.",
+            "nuotrauka": "https://www.sunu-veisles.lt/wp-content/uploads/sunu-veisles/pudelis1.jpg"
+        },{
+            "id": "8",
+            "veisle": "Taksas",
+            "kilme": "Vokietija",
+            "dydis": "Maži šunys",
+            "charakteris": "gudrus, drąsus, atsidavęs, gyvybingas, žaismingas, užsispyręs",
+            "ilgaamziskumas": "12 -15 metų",
+            "suniukoKaina": "320 - 490 €",
+            "aprasymas": "Spėjama, kad taksas kilo iš trumpakojų skalikų, o šiuolaikiniai taksai buvo išvesti Vokietijoje. Veisiant šunis buvo bandoma gauti mažą, kresną šunį, tinkantį urvinei medžioklei - gaudyti barsukus, lapes. Dabar taksas yra viena populiariausių veislių pasaulyje. Yra skiriami trijų tipų taksai, kurie skiriasi kailio struktūra: trumpaplaukiai, šiurkščiaplaukiai ir ilgaplaukiai.",
+            "elgesys": "Taksai yra sumanūs ir supratingi šunys, puikūs pėdsekiai. Pastovaus charakterio, bet nemėgsta grubaus elgesio. Neteisingai auklėjami gali maištauti. Tai energingi, judrūs ir žaismingi šunys, puikiai tinkantys gyventi šeimose. Taksai labai smalsūs, mėgsta vaikščioti, yra drąsūs ir sargūs. Nereikalauja daug priežiūros, pasižymi gera sveikata ir atsparumu.",
+            "nuotrauka": "https://www.sunu-veisles.lt/wp-content/uploads/sunu-veisles/taksas1.jpg"
+        },{
+            "id": "9",
+            "veisle": "Rotveileris",
+            "kilme": "Vokietija",
+            "dydis": "Dideli šunys",
+            "charakteris": "budrus, gero būdo, stabilaus charakterio, atsidavęs, paklusnus, pasitikintis savimi, drąsus, ramus, bebaimis, pasitikintis savimi",
+            "ilgaamziskumas": "9 -10 metų",
+            "suniukoKaina": "970 - 1620 €",
+            "aprasymas": "Rotveileriai - viena seniausių šunų veislių pasaulyje. Jų protėviai buvo gyvulių varovai ir sargai. Viduramžiais Rotveile, Vokietijoje, šie šunys buvo veisiami su vietos aviganiais, kad būtų sukurti rotveilerių metzerhundai - Rotveilo skerdikų šunys. Rotveileriai dirbo ne tik varovais ir sargais, bet ir pakeisdavo arklius - traukė vežimus, gabeno produktus į turgus. Iškilus grėsmei, gynė šeimininkus ir jų turtą. Kadangi Viurtenbergas buvo prekybinis centras, į jį suplaukdavo šimtai prekybininkų, o kartu ir sukčių bei plėšikų. Iki šiol gyvi pasakojimai, kaip mėsininkai ir kiti prekeiviai pinigus parišdavo rotveilerių pakaklėje, o patys užplūsdavo Viurtenbergo smukles.",
+            "elgesys": "Rotveileriai yra ramūs, lengvai dresuojami, labai ištikimi savo šeimininkams. Pasižymi tvirtu charakteriu, kartais gali būti pavydūs, jeigu dėmesys skiriamas ne jam. Mėgsta smalsauti, yra rimti ir savimi pasitikintys šunys. Jiems reikalingas griežtas auklėjimas ir dresūra, nes kai kurie rotveileriai gali būti agresyvūs. Tokį šunį rekomenduojama auginti tik drąsiems ir savo jėgomis pasitinktiems žmonėms. Rotveileris sugyvena su katėmis ir kitais gyvūnais, bet juos reikia kartu auginti nuo pat mažens.",
+            "nuotrauka": "https://www.sunu-veisles.lt/wp-content/uploads/sunu-veisles/rotveileris1.jpg"
+        }
+    ]
+}

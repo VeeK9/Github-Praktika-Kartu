@@ -15,6 +15,7 @@ export default class Dog{
     const image = document.createElement('img');
     image.setAttribute('src', this.nuotrauka);
     image.setAttribute('alt', this.veisle);
+    image.setAttribute('title', `Spustelėkite, kad sužinotumėt daugiau apie tokį ${vardas(this.veisle)}`);
 
     const name = document.createElement('h3');
     const nameText = document.createTextNode(this.veisle);
@@ -28,6 +29,16 @@ export default class Dog{
       document.body.appendChild(dogModal);
       dogModal.showModal()
     })
+
+    function vardas(suo){
+      if(suo.endsWith('as')){
+        return suo.split(' ').pop().slice(0, -2).concat('ą').toLowerCase();
+      } else if(suo.endsWith('is')){
+        return suo.split(' ').pop().slice(0, -2).concat('į').toLowerCase();
+      } else {
+        return suo;
+      }
+    }
 
     return dogCard;
   }
