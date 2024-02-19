@@ -45,7 +45,14 @@ export default class DogInfo{
     const elgesysText = document.createTextNode(this.props.elgesys);
     elgesys.appendChild(elgesysText);
 
-    dogModal.append(name, image, kilme, dydis, charakteris, ilgaamziskumas, suniukoKaina, aprasymas, elgesys);
+    const closeIcon = document.createElement('span');
+    closeIcon.classList.add('bi','bi-x-circle');
+
+    closeIcon.addEventListener('click', () => {
+      dogModal.remove();
+    })
+
+    dogModal.append(name, image, kilme, dydis, charakteris, ilgaamziskumas, suniukoKaina, aprasymas, elgesys, closeIcon);
 
     dogModal.addEventListener('click', e => {
       const out = dogModal.getBoundingClientRect();
