@@ -181,6 +181,9 @@
         height: 200px;
     }
 }
+
+/* Header */
+
 header{
     padding: 20px 30px;
     display: flex;
