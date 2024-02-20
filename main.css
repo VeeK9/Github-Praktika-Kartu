@@ -166,3 +166,17 @@
         flex-direction: column;
     }
 }
+
+/* Hero */
+
+#hero{
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+
+    >img{
+        width: 200px;
+        height: 200px;
+    }
+}
