@@ -167,6 +167,23 @@
     }
 }
 
+/* Hero */
+
+#hero{
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    >img{
+        width: 200px;
+        height: 200px;
+    }
+}
+
+/* Header */
+
 header{
     padding: 20px 30px;
     display: flex;
