@@ -181,3 +181,31 @@
         height: 200px;
     }
 }
+header{
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    >img{
+        height: 60px;
+    }
+    
+}
+#menu {
+    width: 400px;
+    align-items: center;
+    gap: 20px;
+    >ul{
+        list-style-type: none;
+        display: flex; 
+        justify-content: flex-end;
+        flex-wrap: wrap;
+        gap: 15px;
+        >li{
+            >a{
+                color: black;
+                text-decoration: none;
+            }
+        }
+    }
+}
