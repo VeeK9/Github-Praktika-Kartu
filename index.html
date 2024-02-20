@@ -3,23 +3,50 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Suniukai</title>
+  <title>Šuniukai</title>
   <link rel="stylesheet" href="./main.css">
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/620/620851.png">
   <script src="./main.js" type="module"></script>
 </head>
 <body>
   <header> <!-- header'is-->
-    <img src="" alt="">
-    <nav id="menu"></nav>
+    <img src="https://nuotraukos.mediakatalogas.lt/rsynced_images/doghouse-99239_1280.png" alt="logo">
+    <nav id="menu">
+      <ul>
+        <li><a href="#about">Apie Mus</a></li>
+        <li><a href="./dogsPage.html">Šunų veislės</a></li>
+        <li><a href="#suggestions">Pasiūlymai</a></li>
+        <li><a href="#footer">Kontaktai</a></li>
+      </ul>
+    </nav>
   </header>
   <main>
     <section id="hero"> <!-- hero -->
+      <div>
+      <h1>Sveiki atvykę į CodingDogs!</h1>
+      <h3>Mes ne tik veisiame, bet ir mokome šuniukus programuoti. Jeigu ir jūs norite programuojancio šuns - mes visada šalia ir jums padėsime </h3>
+      </div>
+      <img src="./img/dogPaw.jpg" alt="Šuns letena">
     </section>
     <section id="about"> <!-- about us -->
     </section>
     <section id="dogs"> <!-- dog section. Cards container inside-->
+      <h1>Populiariausios šunų veislės</h1>
+      <div id="dogCardContainer">
+      </div>
+      <button id="viewAll">Peržiūrėti visas veisles</button>
     </section>
     <section id="suggestions"> <!-- suggestion form -->
+      <div>
+        <h1>Jūsų pasiūlymai ir atsiliepimai</h1>
+        <form>
+          <input type="text" name="Vardas" placeholder="Vardas">
+          <input type="text" name="Pavarde"  placeholder="Pavardė">
+          <input type="email" name="pastas" placeholder="El.pašto adresas"><br>
+          <textarea rows="6" cols="55"  name="komentaras" placeholder="Jūsų komentaras..."></textarea><br>
+          <input type="submit" value="Pateikti">
+        </form>
+      </div>
     </section>
   </main>
   <footer> <!-- footer -->
