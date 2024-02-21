@@ -1,7 +1,8 @@
 export default class DogInfo{
-  constructor({veisle, nuotrauka, props}){
+  constructor({veisle, nuotrauka, skills, props}){
     this.veisle = veisle;
     this.nuotrauka = nuotrauka;
+    this.skills = skills;
     this.props = props;
     return this.render()
   }
@@ -16,6 +17,10 @@ export default class DogInfo{
     const image = document.createElement('img');
     image.setAttribute('src', this.nuotrauka);
     image.setAttribute('alt', this.veisle);
+
+    const skills = document.createElement('p');
+    const skillsText = document.createTextNode(`Programavimo įgūdžiai: ${this.skills}`);
+    skills.appendChild(skillsText);
 
     const kilme = document.createElement('p');
     const kilmeText = document.createTextNode(`Kilmės šalis: ${this.props.kilme}`);
@@ -52,7 +57,7 @@ export default class DogInfo{
       dogModal.remove();
     })
 
-    dogModal.append(name, image, kilme, dydis, charakteris, ilgaamziskumas, suniukoKaina, aprasymas, elgesys, closeIcon);
+    dogModal.append(name, image, skills, kilme, dydis, charakteris, ilgaamziskumas, suniukoKaina, aprasymas, elgesys, closeIcon);
 
     dogModal.addEventListener('click', e => {
       const out = dogModal.getBoundingClientRect();

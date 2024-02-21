@@ -43,6 +43,10 @@
     gap: 20px;
     padding: 20px 20px 40px;
   }
+    
+  > #back {
+      margin-bottom: 30px;
+  }
 
   > button {
     display: block;
@@ -66,6 +70,8 @@
   }
 }
 
+
+
 .dogCard {
   width: 350px;
   position: relative;
@@ -84,22 +90,24 @@
 
   > img {
     width: 100%;
-    box-sizing: border-box;
     aspect-ratio: 4 / 5;
     object-fit: cover;
     display: block;
     overflow: hidden;
   }
 
-  > h3 {
+  > div {
     position: absolute;
     bottom: 10px;
-    padding: 15px;
+    padding: 5px;
     margin: 0;
     text-align: center;
-    box-sizing: border-box;
-    width: 100%;
+    width: 320px;
     background-color: rgba(255, 255, 255, 0.6);
+
+    > * {
+        margin: 3px;
+    }
   }
 }
 
@@ -107,11 +115,10 @@
     width: 80%;
     box-shadow: 1px 1px 36px rgba(0, 0, 0, 0.5);
     display: grid;
-    grid-template: 50px repeat(5, auto) 1fr 1fr / auto 1fr;
+    grid-template: 50px 50px repeat(5, auto) auto auto / 50% 1fr;
     column-gap: 20px;
 
     > h3 {
-        /* text-align: center; */
         grid-column-start: 2;
         font-size: 28px;
         align-self: center;
@@ -124,10 +131,11 @@
 
     > img {
         grid-row: 1 / -1;
-        height: 100%;
+        width: 100%;
+        /* align-self: center; */
     }
 
-    > p:nth-child(8), p:nth-child(9) {
+    > p:nth-child(9), p:nth-child(10) {
         margin-top: 10px;
         place-self: center;
     }
@@ -238,9 +246,18 @@ footer{
 
 /* Header */
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     position: relative;
 }
+
+section{
+    scroll-margin-top: 110px;
+}
+
 header{
     padding: 20px 30px;
     position: sticky;

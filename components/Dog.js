@@ -1,9 +1,10 @@
 import DogInfo from "./DogInfo.js";
 
 export default class Dog{
-  constructor({veisle, nuotrauka, ...rest}){
+  constructor({veisle, nuotrauka, skills, ...rest}){
     this.veisle = veisle;
     this.nuotrauka = nuotrauka;
+    this.skills = skills;
     this.props = rest;
     return this.render()
   }
@@ -20,8 +21,15 @@ export default class Dog{
     const name = document.createElement('h3');
     const nameText = document.createTextNode(this.veisle);
     name.appendChild(nameText);
+
+    const skills = document.createElement('p');
+    const skillsText = document.createTextNode(`Įgudžiai: ${this.skills}`);
+    skills.appendChild(skillsText);
     
-    dogCard.append(image, name);
+    const info = document.createElement('div');
+
+    info.append(name, skills);
+    dogCard.append(image, info);
 
     dogCard.addEventListener('click', e => {
       console.dir(e.target)
